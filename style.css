@@ -1,0 +1,52 @@
+:root {
+  font-size: 62.5%;
+  --primary-color: #e63946;
+  --secondary-color: #1d3557;
+  --tertiary-color: #457b9d;
+  --light-color: #f1faee; 
+  --input-bg: #a8dadc;
+}
+
+html, body, input, button {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.6rem;
+}
+
+body {
+  background: var(--tertiary-color);
+}
+
+#app {
+  margin-top: 12rem;
+  display: grid;
+  place-content: center;
+}
+
+.app-box {
+  background: var(--light-color);
+  color: var(--secondary-color);
+  width: 50rem;
+  padding: 4rem;
+  text-align: center;
+  border-radius: 8px;
+}
+
+
+#input-search {
+  border: none;
+  font-size: 1.6rem;
+  padding: .8rem;
+  border-radius: 4px;
+  background: var(--input-bg);
+  color: var(--secondary-color);
+}
+
+#button-search {
+  border: none;
+  background: var(--primary-color);
+  color: var(--light-color);
+  padding: .8rem;
+  border-radius: 4px;
+
+  cursor: pointer;
+}
