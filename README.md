@@ -1,8 +1,8 @@
 # Population Search 🌎
 
-Esse projeto é uma página simples feita utilizando HTML, CSS e JavaScript que utiliza a [API REST Countries](https://restcountries.com/) para obter a população de determinado país.
+Esse projeto é uma página simples feita utilizando HTML, CSS e JavaScript que utiliza a [API REST Countries](https://restcountries.com/) para obter a população de determinado país. Você pode utilizá-la através deste [link](https://ericktengan.github.io/PopulationSearch/).
 
-This project is a simple page using HTML, CSS and JavaScript to get population information about a country, using [REST Countries API](https://restcountries.com/).
+This project is a simple page using HTML, CSS and JavaScript to get population information about a country, using [REST Countries API](https://restcountries.com/). You can use it through this [link](https://ericktengan.github.io/PopulationSearch/).
 
 ## Documentação de cores
 
